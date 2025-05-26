@@ -1,15 +1,14 @@
 [
-  { "name": "KQED 88.5 FM", "day": "Sunday", "time": "10:00", "zone": "America/Los_Angeles" },
-  { "name": "WNYC 93.9 FM", "day": "Friday", "time": "19:00", "zone": "America/New_York" },
-  { "name": "WBEZ 91.5 FM", "day": "Sunday", "time": "10:00", "zone": "America/Chicago" },
-  { "name": "WBUR 90.9 FM", "day": "Sunday", "time": "11:00", "zone": "America/New_York" },
-  { "name": "KUOW 94.9 FM", "day": "Saturday", "time": "12:00", "zone": "America/Los_Angeles" },
-  { "name": "KERA 90.1 FM", "day": "Sunday", "time": "12:00", "zone": "America/Chicago" },
-  { "name": "KPCC 89.3 FM", "day": "Saturday", "time": "10:00", "zone": "America/Los_Angeles" },
-  { "name": "WAMU 88.5 FM", "day": "Sunday", "time": "11:00", "zone": "America/New_York" },
-  { "name": "KUT 90.5 FM", "day": "Sunday", "time": "11:00", "zone": "America/Chicago" },
-  { "name": "KNKX 88.5 FM", "day": "Saturday", "time": "12:00", "zone": "America/Los_Angeles" },
-  { "name": "KALW 91.7 FM", "day": "Monday", "time": "20:00", "zone": "America/Los_Angeles" },
-  { "name": "KUSP 88.9 FM", "day": "Sunday", "time": "12:00", "zone": "America/Los_Angeles" },
-  { "name": "KUNR 88.7 FM", "day": "Sunday", "time": "11:00", "zone": "America/Los_Angeles" }
+  {
+    "name": "KQED 88.5 FM",
+    "day": "Sunday",
+    "time": "10:00",
+    "zone": "America/Los_Angeles"
+  },
+  {
+    "name": "WNYC 93.9 FM",
+    "day": "Sunday",
+    "time": "10:00",
+    "zone": "America/Los_Angeles"
+  }
 ]
