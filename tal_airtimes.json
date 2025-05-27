@@ -1,84 +1,98 @@
 [
   {
     "name": "KQED 88.5 FM",
+    "city": "San Francisco, CA",
     "day": "Sunday",
     "time": "10:00",
     "zone": "America/Los_Angeles"
   },
   {
     "name": "WNYC 93.9 FM",
+    "city": "New York, NY",
     "day": "Friday",
     "time": "19:00",
     "zone": "America/New_York"
   },
   {
     "name": "KCRW 89.9 FM",
+    "city": "Los Angeles, CA",
     "day": "Saturday",
     "time": "10:00",
     "zone": "America/Los_Angeles"
   },
   {
     "name": "WBEZ 91.5 FM",
+    "city": "Chicago, IL",
     "day": "Sunday",
     "time": "10:00",
     "zone": "America/Chicago"
   },
   {
     "name": "WBUR 90.9 FM",
+    "city": "Boston, MA",
     "day": "Sunday",
     "time": "11:00",
     "zone": "America/New_York"
   },
   {
     "name": "KUOW 94.9 FM",
+    "city": "Seattle, WA",
     "day": "Saturday",
     "time": "12:00",
     "zone": "America/Los_Angeles"
   },
   {
     "name": "KERA 90.1 FM",
+    "city": "Dallas, TX",
     "day": "Sunday",
     "time": "12:00",
     "zone": "America/Chicago"
   },
   {
     "name": "KPCC 89.3 FM",
+    "city": "Pasadena, CA",
     "day": "Saturday",
     "time": "10:00",
     "zone": "America/Los_Angeles"
   },
   {
     "name": "WAMU 88.5 FM",
+    "city": "Washington, D.C.",
     "day": "Sunday",
     "time": "11:00",
     "zone": "America/New_York"
   },
   {
     "name": "KUT 90.5 FM",
+    "city": "Austin, TX",
     "day": "Sunday",
     "time": "11:00",
     "zone": "America/Chicago"
   },
   {
     "name": "KNKX 88.5 FM",
+    "city": "Tacoma, WA",
     "day": "Saturday",
     "time": "12:00",
     "zone": "America/Los_Angeles"
   },
   {
     "name": "KALW 91.7 FM",
+    "city": "San Francisco, CA",
     "day": "Monday",
     "time": "20:00",
     "zone": "America/Los_Angeles"
   },
   {
     "name": "KUSP 88.9 FM",
+    "city": "Santa Cruz, CA",
     "day": "Sunday",
     "time": "12:00",
     "zone": "America/Los_Angeles"
   },
   {
     "name": "KUNR 88.7 FM",
+    "city": "Reno, NV",
     "day": "Sunday",
     "time": "11:00",
     "zone": "America/Los_Angeles"
